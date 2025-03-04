@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Deep Learning, Machine Learning.<br>❓ Ask me about personal finance.<br>⚡ Experience with IG theme pages.<br>📫 How to reach me : Abhishekksingh68@gmail.com<br>
+🌱 I’m currently exploring Deep Learning, Machine Learning.<br>❓ Ask me about personal finance.<br>⚡ Experience with IG theme pages.<br>📫 How to reach me : Abhishekksingh68@gmail.com<br>
 
 
 ## 🌐 Socials:
