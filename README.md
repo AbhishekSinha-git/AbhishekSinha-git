@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently exploring Deep Learning, Machine Learning.<br>❓ Ask me about personal finance.<br>⚡ Experience with IG theme pages.<br>📫 How to reach me : Abhishekksingh68@gmail.com<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekSinha-git&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekSinha-git" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhisheksinha_ig/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sinha-11287124a/) 
